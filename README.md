@@ -49,7 +49,9 @@ Dosya: city_temperature.csv
 
 İşte bazı ilgili kaynaklar:(üzerine tıklayınız)
 
-[Kaggle notebookunun linki](https://www.kaggle.com/code/ahmeterbeyy/s-cakl-k-tahmini)
+[Kaggle notebookunun linki](https://www.kaggle.com/code/ahmeterbeyy/s-cakl-k-tahmini)(kaggleda save olurken hata aldı bazı grafikler githubdaki gibi gözükmüyor)
+
+[Kaggle notebookunu 2. Grafiklerin hatasız gözüktüğü verisyonu](https://www.kaggle.com/code/ahmeterbeyy/s-cakl-k-tahmini-supervised-unsupervised-withgraf)(error almamış şekili)
 
 [Github notebookunun linki](https://github.com/matiassingers/awesome-readme)
 
